@@ -36,5 +36,3 @@ if st.button('Predict Parkinson\'s Status'):
     st.write(f"Prediction: {'Parkinson\'s Disease' if prediction == 1 else 'Healthy'}")
     if proba is not None:
         st.write(f"Probability of Parkinson's Disease: {proba:.2f}")
-
-st.write("Model: Loaded from pickle file")

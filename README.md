@@ -1,4 +1,3 @@
-Subject: README.md – Parkinson’s Disease Prediction (Updated App URL)
 
 # 🧠 Parkinson’s Disease Prediction
 
